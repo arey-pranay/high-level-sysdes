@@ -13,7 +13,7 @@ They each solve **different data problems**, and interviewers expect you to know
 
 ---
 
-# ** Relational Database / SQL Database**
+# **Relational Database / SQL Database**
 
 ## ⭐ **What is a SQL / Relational Database?**
 
@@ -80,7 +80,7 @@ Example table:
 
 ---
 
-# ** Non-Relational Database / NoSQL**
+# **Non-Relational Database / NoSQL**
 
 ## ⭐ **What is NoSQL?**
 
@@ -150,7 +150,7 @@ No rigid structure → allows rapid changes.
 
 ---
 
-# ** SQL vs NoSQL**
+# **SQL vs NoSQL**
 
 ## ⭐ **Key Comparison Table**
 
@@ -182,7 +182,7 @@ No rigid structure → allows rapid changes.
 
 ---
 
-# ** Object Storage**
+# **Object Storage**
 
 ## ⭐ **What is Object Storage?**
 
@@ -245,7 +245,7 @@ Objects stored in **buckets**, retrievable via HTTP.
 
 ---
 
-# ** Cache**
+# **Cache**
 
 ## ⭐ **What is Cache?**
 
@@ -312,7 +312,7 @@ Next time, fetch from **RAM (very fast)** instead of disk.
 
 ---
 
-# ** CDN — Content Delivery Network**
+# **CDN — Content Delivery Network**
 
 ## ⭐ **What is a CDN?**
 
