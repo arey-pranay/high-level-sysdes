@@ -1,4 +1,4 @@
-## Disclaimer: Any media file used here probabl belongs to the udemy course mentioned in the repo description. A must-buy course if you want to learn about system design with real examples.
+## Disclaimer: Any media file used here probably belongs to the udemy course mentioned in the repo description. A must-buy course if you want to learn about system design with real examples.
 
 ### **Client & Server**
 
